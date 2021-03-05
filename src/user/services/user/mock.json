@@ -1,0 +1,37 @@
+{
+    "name":"Leonardo Oliveira",
+    "age":21,
+    "githubUser":{
+       "login":"leo-def",
+       "id":7004464,
+       "nodeId":"MDQ6VXNlcjcwMDQ0NjQ=",
+       "avatarUrl":"https://avatars.githubusercontent.com/u/7004464?v=4",
+       "gravatarId":"",
+       "url":"https://api.github.com/users/leo-def",
+       "htmlUrl":"https://github.com/leo-def",
+       "followersUrl":"https://api.github.com/users/leo-def/followers",
+       "followingUrl":"https://api.github.com/users/leo-def/following{/otherUser}",
+       "gistsUrl":"https://api.github.com/users/leo-def/gists{/gistId}",
+       "starredUrl":"https://api.github.com/users/leo-def/starred{/owner}{/repo}",
+       "subscriptionsUrl":"https://api.github.com/users/leo-def/subscriptions",
+       "organizationsUrl":"https://api.github.com/users/leo-def/orgs",
+       "reposUrl":"https://api.github.com/users/leo-def/repos",
+       "eventsUrl":"https://api.github.com/users/leo-def/events{/privacy}",
+       "receivedEventsUrl":"https://api.github.com/users/leo-def/receivedEvents",
+       "type":"User",
+       "siteAdmin":false,
+       "score":1
+    },
+    "address":{
+       "cep":"82560-250",
+       "logradouro":"Rua Capistrano de Abreu",
+       "complemento":"de 726/727 ao fim",
+       "bairro":"Boa Vista",
+       "localidade":"Curitiba",
+       "uf":"PR",
+       "ibge":"4106902",
+       "gia":"",
+       "ddd":"41",
+       "siafi":"7535"
+    }
+ }
